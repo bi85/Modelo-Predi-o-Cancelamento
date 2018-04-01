@@ -1,0 +1,30 @@
+---
+title: "Análise do Comportamento de Clientes que Cancelam seu produto de férias"
+author: "Márcio Ferreira dos Santos"
+date: "10 de março de 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Determinando as perguntas da pesquisa
+
+
+Dentro do campo analisado, uma das perguntas que tentarei responder com esse algoritmo será a pergunta 
+
+>Porque os clientes cancelam o produto de férias?
+
+
+O controle existente nesse campo, é chamado de **índice de cancelamento** sobre os produtos. Um controle que influência diretamente a **viabilidade do negócio**, e impacta seu **resultado financeiro**. Mas se trata de um índice quantitativo, que não estuda leva em conta outros pontos que compõe o indice analisado.
+
+Iremos analisar abaixo, um **Estudo do comportamento dos clientes**, e tentar encontrar um padrão entre os clientes que cancelamento do produto, fazendo uma investigação sobre os dados disponíveis, e tentando cruzar com outras fontes de dados disponíveis.
+
+
+```{r}
+
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
