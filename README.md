@@ -1,6 +1,9 @@
 # Modelo-Predi-o-Cancelamento
-A intenÃ§Ã£o Ã© montar um modelo de prediÃ§Ã£o de clientes que possam vir a cancelar seu produto.
+A intenção é conseguir encontrar um modelo preditivo, para analisar comportamento de clientes que adquirem um produto de Vacation Ownership, e o que os levam a cancelar seu produto.
 
-```{r}
+Um estudo que requer análise de dados históricos e perfil, tentando adicionar o máximo possível de dados, para encontrar um parâmetro de comportamento.
+
+```{r setup, include=FALSE}
+
 ```
 
